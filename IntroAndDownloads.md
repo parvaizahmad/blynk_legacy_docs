@@ -1,8 +1,5 @@
 # Intro
 
-<h2 class="banner-header">🚨🚨🚨 IMPORTANT:</h2> 
-
-
 ##How Blynk Works
 Blynk was designed for the Internet of Things. It can control hardware remotely, it can display sensor data, 
 it can store data, vizualize it and do many other cool things. 

@@ -1,20 +1,6 @@
 
 ## Intro
 
-## 🚨🚨🚨 **IMPORTANT:** 
-
-> ## :warning: This documentation is for the LEGACY version of Blynk platform which is no longer supported and will be shut down.
-> You can sign up for the current version of Blynk platform [here](http://blynk.cloud/dashboard/register).
-> The new mobile apps can be downloaded from [App Store](https://apps.apple.com/us/app/blynk-iot/id1559317868) and [Google Play](https://play.google.com/store/apps/details?id=cloud.blynk&hl=en&gl=US).
-> The actual Blynk documentation is [here](https://docs.blynk.io/).
-
-This guide will help you understand how to get started using Blynk and give a comprehensive overview of all the features.
-
-If you want to jump straight into playing with Blynk, check out Getting Started.   
-
-
-[Getting Started &gt;](./#getting-started)
-
 ### How Blynk Works
 
 Blynk was designed for the Internet of Things. It can control hardware remotely, it can display sensor data, it can store data, vizualize it and do many other cool things.
